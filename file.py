@@ -6,7 +6,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Conve
 # Konstanta
 API_URL_LOGIN = "https://mtacc.mobilelegends.com/v2.1/inapp/login"
 API_URL_CHANGE_EMAIL = "https://mtacc.mobilelegends.com/v2.1/inapp/changebindemail"
-BOT_TOKEN = "YOUR_BOT_TOKEN"  # Ganti dengan token bot Anda
+BOT_TOKEN = "7710828121:AAGdQmVhqQTFquxqwJ00BL_h_-vnWZ21ltw"  # Ganti dengan token bot Anda
 
 # Menyimpan data sementara
 user_data = {}
